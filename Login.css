@@ -1,0 +1,37 @@
+body{
+	background-image: url("https://image.freepik.com/foto-gratis/marco-colorido-verduras-espacio-copia_23-2148290738.jpg");
+	background-size: cover;
+ 	background-repeat:no-repeat;
+  	background-position: center;
+  	background-attachment: fixed;
+  	
+}
+
+#TITULO {
+	font-family: fantasy;
+	font-weight: bolder;
+	font-size:67px;
+	text-align: center;
+	text-shadow: 7px 4px 5px Gray;
+	position: absolute;
+    top: 25% ;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	/*  */
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    height:50px;
+}
+    
+.box1 {
+	 position: absolute;
+    top: 57%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    width:300px;
+}
